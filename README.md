@@ -34,7 +34,7 @@ Esse é um projeto Full Stack Next.js desenvolvido a partir do [tutorial do free
 
 Durante a criação da aplicação foram explorados os principais conceitos do Next.js e de como estruturar essas aplicações utilizando APIs locais. Foram desenvolvidos componentes utilizando server-side rendering, client-side rendering e páginas estáticas, tudo isso criando funções que utilizam requisições HTTP para o consumo das APIs.
 
-Para acessar o resultado final da página, clique [aqui](https://portfolio-alura-ecru-two.vercel.app/).
+Para acessar o resultado final da página, clique [aqui](https://postdegree-client-side-architecture-final-project.vercel.app/).
 
 ## Ferramentas utilizadas:
 
