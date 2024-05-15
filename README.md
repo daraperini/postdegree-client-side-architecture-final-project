@@ -4,7 +4,6 @@ This is a Full Stack Next.js project developed using the [freeCodeCamp tutorial]
 
 During the application's development I explored the main concepts of Next.js and how to structure these applications while using local APIs. Components were developed using server-side rendering, client-side rendering and static pages. The consuming of APIs was possible creating functions that utilize HTTP requests.
 
-To see the final result, click [here](https://postdegree-client-side-architecture-final-project.vercel.app/).
 
 ## Used tools:
 
@@ -34,7 +33,6 @@ Esse é um projeto Full Stack Next.js desenvolvido a partir do [tutorial do free
 
 Durante a criação da aplicação foram explorados os principais conceitos do Next.js e de como estruturar essas aplicações utilizando APIs locais. Foram desenvolvidos componentes utilizando server-side rendering, client-side rendering e páginas estáticas, tudo isso criando funções que utilizam requisições HTTP para o consumo das APIs.
 
-Para acessar o resultado final da página, clique [aqui](https://postdegree-client-side-architecture-final-project.vercel.app/).
 
 ## Ferramentas utilizadas:
 
